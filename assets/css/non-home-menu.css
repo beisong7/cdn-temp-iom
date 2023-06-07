@@ -1,0 +1,7 @@
+ul.menu li.active {
+    background: white;
+}
+
+ul.menu li:hover {
+    background: white;
+}
